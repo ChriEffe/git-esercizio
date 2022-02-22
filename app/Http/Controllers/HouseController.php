@@ -24,7 +24,8 @@ class HouseController extends Controller
      */
     public function create()
     {
-        //
+        $ciao = 0;
+        $ciao = "string";
     }
 
   
