@@ -26,6 +26,7 @@ class HouseController extends Controller
     {
         $ciao = 0;
         $ciao = "string";
+        $ciao = 'integer';
     }
 
   
