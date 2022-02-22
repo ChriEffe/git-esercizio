@@ -28,6 +28,8 @@ class HouseController extends Controller
         $ciao = "string";
         $wow = "tua sister";
         $ciao = 'integer';
+        $spadella = "tua";
+        $ciao = 'integer';
     }
 
   
