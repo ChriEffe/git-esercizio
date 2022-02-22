@@ -25,6 +25,9 @@ class HouseController extends Controller
     public function create()
     {
         $ciao = 0;
+
+            $caso = 'Sono una stringa a caso per dare fastidio';
+
         $ciao = "string";
         $wow = "tua sister";
         $ciao = 'integer';
