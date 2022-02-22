@@ -78,8 +78,8 @@ class HouseController extends Controller
      * @param  \App\House  $house
      * @return \Illuminate\Http\Response
      */
-    public function destroy(House $house)
-    {
-        //
-    }
+    // public function destroy(House $house)
+    // {
+    //     //
+    // }
 }
